@@ -1,0 +1,24 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdAlfadeel-Hamdy/NodeJS-Asynchronous-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdAlfadeel-Hamdy/NodeJS-Asynchronous-JS/issues"
+  },
+  "homepage": "https://github.com/AbdAlfadeel-Hamdy/NodeJS-Asynchronous-JS#readme",
+  "dependencies": {
+    "nodemon": "^2.0.21",
+    "superagent": "^8.0.9"
+  }
+}
